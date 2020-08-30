@@ -1,0 +1,8 @@
+associer son
+trouver les particule
+finir les anim
+synchroniser les repères
+trouver plus de model 3D
+(effet graphique)
+(audio visualizer && glow)
+(theme multiple)
